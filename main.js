@@ -1,9 +1,9 @@
 let time;
 let counter = document.querySelector('h1')
 
-let ss = 0
-let mm = 0
-let hh = 0
+let ss = 0 //segundos
+let mm = 0//minutos
+let hh = 0//horas
 
 //Iniciar o cronometro
 function start() {
